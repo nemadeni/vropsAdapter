@@ -1,0 +1,18 @@
+{
+        "VXMADellPERCH730Firmware2": {
+                "RCM-Version": "25.4.0.0023",
+                "Discovered-Version": "25.4.0.0025",
+                "Component-Info": {
+                   "IP":"10.234.239.56",
+                   "type":"Switch"
+                }
+        },
+        "VXMA-DellBIOSforDellR6301": {
+                "RCM-Version": "25.4.8",
+                "Discovered-Version": "25.4.88"
+                 "Component-Info": {
+                   "IP":"10.234.239.57",
+                   "type":"Server"
+                }
+         }
+}
